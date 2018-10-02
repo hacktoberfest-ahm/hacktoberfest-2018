@@ -8,7 +8,7 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
-[https://sdabhi23.github.io/hacktoberfest/](https://sdabhi23.github.io/hacktoberfest/)
+[https://hacktoberfest-ahm.github.io/hacktoberfest-2018/](https://hacktoberfest-ahm.github.io/hacktoberfest-2018/)
 
 ## What is Hacktoberfest?
 A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
@@ -22,7 +22,7 @@ Here are 3 quick and painless ways to contribute to this project:
 * Add a profile page to the `profiles` directory
 * Create a simple "Hello, World" script in a language of your choice
 
-> You can view all contributors at [https://sdabhi23.github.io/hacktoberfest-ahmedabad/contributors](https://sdabhi23.github.io/hacktoberfest-ahmedabad/contributors) and your profile at **https://sdabhi23.github.io/hacktoberfest-ahmedabad/profiles/yourusername**
+> You can view all contributors at [https://hacktoberfest-ahm.github.io/hacktoberfest-2018/contributors](https://hacktoberfest-ahm.github.io/hacktoberfest-2018/contributors) and your profile at **https://hacktoberfest-ahm.github.io/hacktoberfest-2018/profiles/yourusername**
 
 Choose one or all 3, make a pull request for your work and wait for it to be merged!
 
