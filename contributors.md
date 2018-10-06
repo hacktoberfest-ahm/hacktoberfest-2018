@@ -7,3 +7,8 @@
 - Place: Junagadh, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
 - GitHub: [blue-atom](https://github.com/blue-atom/)
+
+### Name: [Vidita Chudasama](https://github.com/ViditaChudasama/)
+- Place: Junagadh, Gujarat, India
+- Bio: A Geek with formal education { sort of ;) }
+- GitHub: [Vidita](https://github.com/ViditaChudasama/)
