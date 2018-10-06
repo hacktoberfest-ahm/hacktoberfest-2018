@@ -12,3 +12,8 @@
 - Place: Junagadh, Gujarat, India
 - Bio: A Geek with formal education { sort of ;) }
 - GitHub: [Vidita](https://github.com/ViditaChudasama/)
+
+### Name: [Vyom Jain](https://github.com/vvyomjjain/)
+- Place: Alwar, Rajasthan, India
+- Bio: Can't stop learning
+- GitHub: [vvyomjjain](https://github.com/vvyomjjain/)
