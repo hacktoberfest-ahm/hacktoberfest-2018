@@ -17,3 +17,8 @@
 - Place: Alwar, Rajasthan, India
 - Bio: Can't stop learning
 - GitHub: [vvyomjjain](https://github.com/vvyomjjain/)
+
+### Name: [Adit Mdohvadia](https://github.com/aditmodhvadia/)
+- Place: Ahmedabad, Gujarat, India
+- Bio: Human with a desire for development
+- GitHub: [aditmodhvadia](https://github.com/aditmodhvadia/)
